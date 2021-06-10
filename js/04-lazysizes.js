@@ -1,0 +1,4 @@
+/*
+ * Библиотека lazysizes
+ * - feature detection
+ */
